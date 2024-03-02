@@ -1,6 +1,6 @@
-# Data Structures and Algorithms Course
+# Data Structures and Algorithms
 
-Welcome to the Data Structures and Algorithms course repository! This repository contains implementations of various data structures and algorithms in the Go programming language.
+Welcome to my Data Structures and Algorithms repository! This repository contains implementations of various data structures and algorithms in the Go programming language.
 
 ## Table of Contents
 
